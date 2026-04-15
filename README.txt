@@ -1,6 +1,6 @@
 Electrician App - User Guide
 ====================================
-Version: 1.0.1
+Version: 1.1.0
 Build Date: 2025-09-08
 
 Welcome to the Automating Innovating AI Electrician App — a streamlined, secure, and intuitive tool 
